@@ -1,10 +1,11 @@
 .header{
-  width: 100%;
+  /* width: 100rem; */
   border: 1px solid #fff;
   display: flex;
   justify-content: space-between;
   /* display: flow-root; */
-  overflow-x: auto;
+  /* overflow-x: ; */
+  overflow-x: scroll;
   overflow-y: hidden;
 }
 .header::-webkit-scrollbar{
