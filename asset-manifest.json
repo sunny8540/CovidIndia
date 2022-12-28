@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CovidIndia/static/css/main.37b90052.css",
+    "main.css": "/CovidIndia/static/css/main.f23dfce6.css",
     "main.js": "/CovidIndia/static/js/main.f951c83d.js",
     "index.html": "/CovidIndia/index.html",
-    "main.37b90052.css.map": "/CovidIndia/static/css/main.37b90052.css.map",
+    "main.f23dfce6.css.map": "/CovidIndia/static/css/main.f23dfce6.css.map",
     "main.f951c83d.js.map": "/CovidIndia/static/js/main.f951c83d.js.map"
   },
   "entrypoints": [
-    "static/css/main.37b90052.css",
+    "static/css/main.f23dfce6.css",
     "static/js/main.f951c83d.js"
   ]
 }
