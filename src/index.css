@@ -2,7 +2,7 @@
   width: 100%;
   border: 1px solid #fff;
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   /* display: flow-root; */
   /* overflow-x: ; */
   overflow: auto;
